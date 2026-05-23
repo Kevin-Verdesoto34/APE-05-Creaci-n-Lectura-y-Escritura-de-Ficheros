@@ -1,0 +1,2 @@
+Laptop ASUS Tuf,1,1200.00,1200.00
+Monitor Gamer 24,2,180.00,360.00

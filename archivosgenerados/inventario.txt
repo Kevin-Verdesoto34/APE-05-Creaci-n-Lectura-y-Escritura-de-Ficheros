@@ -1,0 +1,2 @@
+P001,Teclado Mecanico RGB,15,45.50
+P002,Mouse Optico Inalambrico,10,25.00

@@ -1,0 +1,3 @@
+1805432109,Carlos Alfredo Mendoza,Software,8.75
+1726543210,Ana Maria Ortiz,Software,9.20
+1809876543,Luis Alejandro Lopez,TI,7.40

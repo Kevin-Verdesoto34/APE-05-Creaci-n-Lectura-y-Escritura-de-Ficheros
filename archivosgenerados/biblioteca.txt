@@ -1,0 +1,3 @@
+L001;Cien anos de soledad;Gabriel Garcia Marquez;Disponible
+L002;Introduccion a la Programacion;Joyanes Aguilar;Prestado
+L003;Fisica Universitaria Vol 1;Sears Zemansky;Disponible
